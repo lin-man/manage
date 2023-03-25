@@ -12,7 +12,7 @@
           <div class="touXiang">
             <el-avatar :icon="UserFilled"></el-avatar>&nbsp;
             <span style="cursor: pointer" class="span"
-              >Arvin
+              >Arvinppp
               <div class="back">
                 <el-button
                   style="position: absolute; top: 20px; left: 5px"
